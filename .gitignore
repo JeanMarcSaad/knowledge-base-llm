@@ -1,0 +1,12 @@
+# OSX
+.DS_STORE
+
+# Models
+models/
+
+# Local Chroma db
+.chroma/
+db/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
